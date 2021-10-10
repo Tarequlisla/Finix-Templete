@@ -1,0 +1,55 @@
+
+		website link
+	
+	https://templates.envytheme.com/finix/default/index-2.html
+
+
+
+
+		upload image
+
+<img src="https://i.ibb.co/0XW8g2h/main-banner2.jpg"
+
+<img src="https://i.ibb.co/vqsrWkL/choose.png"
+
+<img src="https://i.ibb.co/42H2GVN/image3.png"
+
+<img src="https://i.ibb.co/DWBtk19/shape.png" 
+
+<img src="https://i.ibb.co/9pCvGkC/company2.png" 
+
+<img src="https://i.ibb.co/jJ6J2v3/image1.jpg" 
+
+<img src="https://i.ibb.co/njYs1Tm/image2.jpg" 
+
+<img src="https://i.ibb.co/7yd3GHS/image3.jpg"
+
+
+<img src="https://i.ibb.co/m5Jr6Jt/img1.jpg"
+
+<img src="https://i.ibb.co/t35V0pz/img2.jpg" 
+
+<img src="https://i.ibb.co/7vpSGCS/img3.jpg" 
+
+<img src="https://i.ibb.co/dkn1Xbm/img4.jpg" 
+
+<img src="https://i.ibb.co/7GG7MYK/logo.png"
+ 
+<img src="https://i.ibb.co/fnxgLJc/logo2.png" 
+
+
+<img src="https://i.ibb.co/NVkL27s/man.png" 
+
+<img src="https://i.ibb.co/FXC3TW0/services-tab.png"
+
+
+
+<img src="https://i.ibb.co/sg5j5H8/image1.png"
+
+<img src="https://i.ibb.co/rQRSVy0/image2.png" 
+
+<img src="https://i.ibb.co/b64CDpv/image4.png" 
+
+<img src="https://i.ibb.co/bgYnBF9/image5.png"
+
+<img src="https://i.ibb.co/1TCQwfj/image6.png"
